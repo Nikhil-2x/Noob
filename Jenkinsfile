@@ -1,6 +1,5 @@
 pipeline {
 
-```
 agent any
 
 environment {
@@ -84,6 +83,5 @@ post {
         echo 'Pipeline failed'
     }
 }
-```
-
+    
 }
